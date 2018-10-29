@@ -1,0 +1,9 @@
+[submodule "nfc_attendance_system_esp32"]
+	path = nfc_attendance_system_esp32
+	url = https://github.com/redchenjs/nfc_attendance_system_esp32
+[submodule "nfc_attendance_system_weixin"]
+	path = nfc_attendance_system_weixin
+	url = https://github.com/redchenjs/nfc_attendance_system_weixin
+[submodule "nfc_attendance_system_server"]
+	path = nfc_attendance_system_server
+	url = https://github.com/redchenjs/nfc_attendance_system_server
