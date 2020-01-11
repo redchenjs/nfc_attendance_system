@@ -7,3 +7,6 @@
 [submodule "weixin"]
 	path = weixin
 	url = https://github.com/redchenjs/nfc_attendance_system_weixin
+[submodule "eagle"]
+	path = eagle
+	url = https://github.com/redchenjs/nfc_attendance_system_eagle
