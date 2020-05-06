@@ -3,6 +3,7 @@ NFC Attendance System
 
 ## Main Features
 
+* WeChat Mini-Program
 * PN532 NFC-Token Exchange
 * Wifi SmartConfig Support
 * GIF Animations Output
