@@ -3,12 +3,12 @@ NFC Attendance System
 
 ## Main Features
 
-* WeChat Mini-Program
-* PN532 NFC-Token Exchange
-* Wifi SmartConfig Support
-* GIF Animations Output
-* Audio Prompt (I2S output)
-* OTA Firmware Update (HTTP / HTTPS)
+* NFC token exchange
+* [WeChat Mini-Program](https://github.com/redchenjs/nfc_attendance_system_weixin)
+* WiFi SmartConfig support
+* Audio prompt (I2S output)
+* GUI output (GIF animations)
+* OTA firmware update (HTTP / HTTPS)
 
 ## Repositories
 
